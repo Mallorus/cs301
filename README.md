@@ -8,3 +8,18 @@ Course materials for cs301 gleaning from internet
 	https://git-scm.com/
 	
 	https://tortoisegit.org/
+	
+P01. System design of ERS
+
+p02. Client side design part-1
+
+P03. Client side design part-2
+
+P04. Database design part-1
+
+P05. Database design part-2
+
+P06. Server side design part-1
+
+P07. Server side design part-2
+	
