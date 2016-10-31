@@ -10,6 +10,7 @@ Course materials for cs301 gleaning from internet
 	https://tortoisegit.org/
 	
 P01. System design of ERS
+	http://www.w3schools.com/
 
 p02. Client side design part-1
 
