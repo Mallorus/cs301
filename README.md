@@ -13,7 +13,9 @@ P01. System design of ERS
 	http://www.w3schools.com/
 
 p02. Client side design part-1
+
 	Javascript library for video capture
+	
 	https://github.com/andrastoth/expertcamjs
 
 P03. Client side design part-2
