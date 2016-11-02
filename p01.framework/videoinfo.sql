@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Nov 02, 2016 at 04:29 PM
+-- Generation Time: Nov 02, 2016 at 04:41 PM
 -- Server version: 5.6.30
 -- PHP Version: 5.5.35
 
@@ -19,6 +19,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `videoinfo`
 --
+CREATE DATABASE IF NOT EXISTS `videoinfo` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `videoinfo`;
 
 -- --------------------------------------------------------
 
@@ -26,6 +28,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `videos`
 --
 
+DROP TABLE IF EXISTS `videos`;
 CREATE TABLE IF NOT EXISTS `videos` (
   `ID` int(11) NOT NULL,
   `NAME` varchar(30) NOT NULL,
