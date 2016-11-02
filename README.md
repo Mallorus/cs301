@@ -17,6 +17,8 @@ p02. Client side design part-1
 P03. Client side design part-2
 
 P04. Database design part-1
+	How to export and import MySQL databases
+	https://mediatemple.net/community/products/dv/204403864/export-and-import-mysql-databases
 
 P05. Database design part-2
 
